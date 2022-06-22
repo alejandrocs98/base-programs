@@ -1,1 +1,3 @@
 Archivo de práctica para git
+
+Práctica de creación de ramas.
