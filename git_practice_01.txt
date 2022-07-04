@@ -1,5 +1,0 @@
-Archivo de práctica para git
-
-Práctica de creación de ramas.
-
-Editar archivos directamente desde github --> práctica de descargar actualizaciones del remoto.
